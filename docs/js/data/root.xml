@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0", "1", "Architectuur-GIS", "", "1.png", "", "", "{E924F86B-C766-4122-9B56-E295CB5B217D}", "Package");
+tocTab[tocTab.length] = new Array("0", "2", "System", "", "1.png", "System");
+tocTab[tocTab.length] = new Array("0", "3", "Project Glossary", "glossary.htm", "26.png");
