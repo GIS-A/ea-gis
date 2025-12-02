@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.2.1.2.1:1", "", "Adressering - inventarisatie elementen", "EARoot/EA2/EA1/EA2/EA1/EA77.htm", "175.png", "259", "0", "", "Logical diagram0","{6825CC2F-85A5-4795-9136-67E58A70C7B1}");
+tocTab[tocTab.length] = new Array("0.2.1.2.1.1", "1", "Elementen", "EARoot/EA2/EA1/EA2/EA1/EA1/EA81.htm", "4.png", "", "", "{8FFDE608-7CD5-47d5-BD9C-459DCA193D2D}", "Package");
