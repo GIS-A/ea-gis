@@ -1,4 +1,0 @@
-tocTab[tocTab.length] = new Array("0.5.3.1", "1", "Business objects", "EARoot/EA5/EA3/EA1/EA194.htm", "4.png", "", "", "{623D0784-E1F0-4cfe-B969-EF4D4C40D654}", "Package");
-tocTab[tocTab.length] = new Array("0.5.3.2", "1", "Business roles", "EARoot/EA5/EA3/EA2/EA203.htm", "4.png", "", "", "{06C5F02A-BB4D-432f-8A5E-3BFCC495739F}", "Package");
-tocTab[tocTab.length] = new Array("0.5.3.3", "1", "Business services", "EARoot/EA5/EA3/EA3/EA213.htm", "4.png", "", "", "{A00A39ED-E638-4acc-983A-32B1BFB7E9B6}", "Package");
-tocTab[tocTab.length] = new Array("0.5.3.4", "1", "Business processes", "EARoot/EA5/EA3/EA4/EA221.htm", "4.png", "", "", "{16734255-9BE6-4593-84F6-E30A3E664DD6}", "Package");
