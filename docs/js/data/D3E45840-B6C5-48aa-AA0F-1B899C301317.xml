@@ -1,2 +1,2 @@
-tocTab[tocTab.length] = new Array("0.1.2.1", "1", "Identificatiefuncties", "EARoot/EA1/EA2/EA1/EA58.htm", "4.png", "", "", "{6BAD3146-E418-452b-AE56-469C53993D4B}", "Package");
-tocTab[tocTab.length] = new Array("0.1.2.2", "1", "Adressering v1.0", "EARoot/EA1/EA2/EA2/EA68.htm", "4.png", "", "", "{E2F80A8C-F354-4c7e-8B3D-81E9663C66FA}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.1", "1", "Identificatiefuncties", "EARoot/EA2/EA1/EA1/EA72.htm", "4.png", "", "", "{6BAD3146-E418-452b-AE56-469C53993D4B}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.2", "1", "Adressering v1.0", "EARoot/EA2/EA1/EA2/EA82.htm", "4.png", "", "", "{E2F80A8C-F354-4c7e-8B3D-81E9663C66FA}", "Package");

@@ -1,2 +1,2 @@
-tocTab[tocTab.length] = new Array("0.1.2.1:1", "", "Identificatiefuncties", "EARoot/EA1/EA2/EA1/EA56.htm", "175.png", "281", "0", "", "Logical diagram0","{22A0217C-ED84-4b07-BE3B-8A1A3E018D25}");
-tocTab[tocTab.length] = new Array("0.1.2.1:2", "", "Zorgaanbieder(eenheid) identiteit", "EARoot/EA1/EA2/EA1/EA59.htm", "9F0DDA8A-5_ArchiMate_DataObject.png", "E1364", "0", "", "Class0","{8784566E-76E6-4ece-92EE-0B72678B5635}");
+tocTab[tocTab.length] = new Array("0.2.1.1:1", "", "Identificatiefuncties", "EARoot/EA2/EA1/EA1/EA70.htm", "175.png", "281", "0", "", "Logical diagram0","{22A0217C-ED84-4b07-BE3B-8A1A3E018D25}");
+tocTab[tocTab.length] = new Array("0.2.1.1:2", "", "Zorgaanbieder(eenheid) identiteit", "EARoot/EA2/EA1/EA1/EA73.htm", "9F0DDA8A-5_ArchiMate_DataObject.png", "E1364", "0", "", "Class0","{8784566E-76E6-4ece-92EE-0B72678B5635}");
