@@ -1,5 +1,5 @@
-tocTab[tocTab.length] = new Array("0.6.1.4:1", "", "Beveiligde verwerkingsomgeving", "EARoot/EA6/EA1/EA4/EA344.htm", "9F0DDA8A-5_ArchiMate_Node.png", "E1229", "0", "", "Class0","{021198DA-2AA2-4b5c-8625-A7CCF670F4CC}");
-tocTab[tocTab.length] = new Array("0.6.1.4:2", "", "Data-altruïsme", "EARoot/EA6/EA1/EA4/EA345.htm", "9F0DDA8A-5_ArchiMate_BusinessService.png", "E1246", "0", "", "Activity0","{2DC49370-7BCB-4931-9602-708BFBB42BE9}");
-tocTab[tocTab.length] = new Array("0.6.1.4:3", "", "Gegevens", "EARoot/EA6/EA1/EA4/EA346.htm", "9F0DDA8A-5_ArchiMate_DataObject.png", "E1310", "0", "", "Class0","{EEAF6071-2CA4-4eef-AF4A-F50D172052CE}");
-tocTab[tocTab.length] = new Array("0.6.1.4:4", "", "Openbaar lichaam", "EARoot/EA6/EA1/EA4/EA347.htm", "9F0DDA8A-5_ArchiMate_BusinessActor.png", "E1284", "0", "", "Class0","{AA8C88D5-3CB5-4187-A920-B3371BABCF9D}");
-tocTab[tocTab.length] = new Array("0.6.1.4:5", "", "Toegang", "EARoot/EA6/EA1/EA4/EA348.htm", "9F0DDA8A-5_ArchiMate_BusinessService.png", "E1256", "0", "", "Activity0","{47F2A8E1-0EE7-482d-9123-9E3D4F5BF93D}");
+tocTab[tocTab.length] = new Array("0.6.1.4:1", "", "Beveiligde verwerkingsomgeving", "EARoot/EA6/EA1/EA4/EA365.htm", "9F0DDA8A-5_ArchiMate_Node.png", "E1229", "0", "", "Class0","{021198DA-2AA2-4b5c-8625-A7CCF670F4CC}");
+tocTab[tocTab.length] = new Array("0.6.1.4:2", "", "Data-altruïsme", "EARoot/EA6/EA1/EA4/EA366.htm", "9F0DDA8A-5_ArchiMate_BusinessService.png", "E1246", "0", "", "Activity0","{2DC49370-7BCB-4931-9602-708BFBB42BE9}");
+tocTab[tocTab.length] = new Array("0.6.1.4:3", "", "Gegevens", "EARoot/EA6/EA1/EA4/EA367.htm", "9F0DDA8A-5_ArchiMate_DataObject.png", "E1310", "0", "", "Class0","{EEAF6071-2CA4-4eef-AF4A-F50D172052CE}");
+tocTab[tocTab.length] = new Array("0.6.1.4:4", "", "Openbaar lichaam", "EARoot/EA6/EA1/EA4/EA368.htm", "9F0DDA8A-5_ArchiMate_BusinessActor.png", "E1284", "0", "", "Class0","{AA8C88D5-3CB5-4187-A920-B3371BABCF9D}");
+tocTab[tocTab.length] = new Array("0.6.1.4:5", "", "Toegang", "EARoot/EA6/EA1/EA4/EA369.htm", "9F0DDA8A-5_ArchiMate_BusinessService.png", "E1256", "0", "", "Activity0","{47F2A8E1-0EE7-482d-9123-9E3D4F5BF93D}");

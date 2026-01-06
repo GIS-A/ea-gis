@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.1.3.2.2:1", "", "Business Use Case", "EARoot/EA1/EA3/EA2/EA2/EA74.htm", "5.png", "E1410", "0", "", "Class0","{055AC5FC-AB83-4cda-8DD6-7F9DD9A02BAA}");
+tocTab[tocTab.length] = new Array("0.1.3.2.2:2", "", "Communicatiepatroon", "EARoot/EA1/EA3/EA2/EA2/EA75.htm", "5.png", "E1407", "0", "", "Class0","{77ED239C-AAF8-4cbd-84D1-942FDBE1B2D7}");
+tocTab[tocTab.length] = new Array("0.1.3.2.2:3", "", "Communicatiepatroon stap", "EARoot/EA1/EA3/EA2/EA2/EA76.htm", "5.png", "E1406", "0", "", "Class0","{CA9CA505-E927-4d0e-8D74-73D4DB50B1B4}");
+tocTab[tocTab.length] = new Array("0.1.3.2.2:4", "", "Interactie", "EARoot/EA1/EA3/EA2/EA2/EA77.htm", "5.png", "E1398", "0", "", "Class0","{4EF6C602-C0BA-478b-87AF-8D050EA03F7B}");
+tocTab[tocTab.length] = new Array("0.1.3.2.2:5", "", "Notify", "EARoot/EA1/EA3/EA2/EA2/EA78.htm", "5.png", "E1401", "0", "", "Class0","{B376D32E-30FC-4eb5-ABA3-B39BCF980591}");
+tocTab[tocTab.length] = new Array("0.1.3.2.2:6", "", "Pull", "EARoot/EA1/EA3/EA2/EA2/EA79.htm", "5.png", "E1400", "0", "", "Class0","{EDB237CD-4EA1-40d5-9167-F4247C2D6F97}");
+tocTab[tocTab.length] = new Array("0.1.3.2.2:7", "", "Push", "EARoot/EA1/EA3/EA2/EA2/EA80.htm", "5.png", "E1399", "0", "", "Class0","{ED68D79F-F4BD-4bb5-95FB-E1E648CB53B0}");
+tocTab[tocTab.length] = new Array("0.1.3.2.2:8", "", "Query", "EARoot/EA1/EA3/EA2/EA2/EA81.htm", "5.png", "E1404", "0", "", "Class0","{2F6B598D-8CEA-4c88-8F12-4A4ACF4D6A48}");
+tocTab[tocTab.length] = new Array("0.1.3.2.2:9", "", "Retreive", "EARoot/EA1/EA3/EA2/EA2/EA82.htm", "5.png", "E1403", "0", "", "Class0","{04EDF8CC-730A-48ea-967D-DBF484F72669}");
+tocTab[tocTab.length] = new Array("0.1.3.2.2:10", "", "Subscribe", "EARoot/EA1/EA3/EA2/EA2/EA83.htm", "5.png", "E1402", "0", "", "Class0","{3EA9B2CF-0327-40d2-9DD4-DC5C7115EF41}");

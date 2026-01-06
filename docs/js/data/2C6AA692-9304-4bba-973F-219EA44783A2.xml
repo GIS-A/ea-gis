@@ -1,6 +1,6 @@
 tocTab[tocTab.length] = new Array("0.1", "1", "Metamodellen", "EARoot/EA1/EA1.htm", "4.png", "", "", "{83498A5E-0AE0-41c8-8A9F-1844CC22E84B}", "Package");
-tocTab[tocTab.length] = new Array("0.2", "1", "Geprioriteerde generieke functies", "EARoot/EA2/EA65.htm", "4.png", "", "", "{C7369E39-9657-4fc5-B01F-AD8168D2FEC9}", "Package");
-tocTab[tocTab.length] = new Array("0.3", "1", "Data integratie & conformiteit functies", "EARoot/EA3/EA98.htm", "4.png", "", "", "{6D1A3A60-BB8C-42c2-AA12-8D5488EC540E}", "Package");
-tocTab[tocTab.length] = new Array("0.4", "1", "Veilig netwerk functies", "EARoot/EA4/EA101.htm", "4.png", "", "", "{0A092490-0BF7-4292-8690-F7DFB215A919}", "Package");
-tocTab[tocTab.length] = new Array("0.5", "1", "Model", "EARoot/EA5/EA102.htm", "34.png", "", "", "{CF7E2F5B-6E42-464e-AB08-C62AE59AF5E3}", "Package");
-tocTab[tocTab.length] = new Array("0.6", "1", "Analyse EHDS", "EARoot/EA6/EA255.htm", "4.png", "", "", "{47AA551F-D243-4c29-A24B-6A3B4491C56E}", "Package");
+tocTab[tocTab.length] = new Array("0.2", "1", "Geprioriteerde generieke functies", "EARoot/EA2/EA86.htm", "4.png", "", "", "{C7369E39-9657-4fc5-B01F-AD8168D2FEC9}", "Package");
+tocTab[tocTab.length] = new Array("0.3", "1", "Data integratie & conformiteit functies", "EARoot/EA3/EA119.htm", "4.png", "", "", "{6D1A3A60-BB8C-42c2-AA12-8D5488EC540E}", "Package");
+tocTab[tocTab.length] = new Array("0.4", "1", "Veilig netwerk functies", "EARoot/EA4/EA122.htm", "4.png", "", "", "{0A092490-0BF7-4292-8690-F7DFB215A919}", "Package");
+tocTab[tocTab.length] = new Array("0.5", "1", "Model", "EARoot/EA5/EA123.htm", "34.png", "", "", "{CF7E2F5B-6E42-464e-AB08-C62AE59AF5E3}", "Package");
+tocTab[tocTab.length] = new Array("0.6", "1", "Analyse EHDS", "EARoot/EA6/EA276.htm", "4.png", "", "", "{47AA551F-D243-4c29-A24B-6A3B4491C56E}", "Package");
