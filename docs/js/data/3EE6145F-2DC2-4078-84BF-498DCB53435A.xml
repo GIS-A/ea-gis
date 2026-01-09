@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.2.1.4.2.3:1", "", "Communicatiepatroon", "EARoot/EA2/EA1/EA4/EA2/EA3/EA274.htm", "5.png", "E1407", "0", "", "Class0","{77ED239C-AAF8-4cbd-84D1-942FDBE1B2D7}");
+tocTab[tocTab.length] = new Array("0.2.1.4.2.3:2", "", "Communicatiepatroon stap", "EARoot/EA2/EA1/EA4/EA2/EA3/EA275.htm", "5.png", "E1406", "0", "", "Class0","{CA9CA505-E927-4d0e-8D74-73D4DB50B1B4}");
+tocTab[tocTab.length] = new Array("0.2.1.4.2.3:3", "", "Gericht verzenden", "EARoot/EA2/EA1/EA4/EA2/EA3/EA276.htm", "5.png", "E1611", "0", "", "Class0","{488E7CEC-63A3-419c-A105-E40A8E4A4C5E}");
+tocTab[tocTab.length] = new Array("0.2.1.4.2.3:4", "", "Gericht beschikbaar stellen", "EARoot/EA2/EA1/EA4/EA2/EA3/EA277.htm", "5.png", "E1612", "0", "", "Class0","{087863AF-05B3-49e6-8803-3A7B5D6954ED}");
+tocTab[tocTab.length] = new Array("0.2.1.4.2.3:5", "", "Gericht bevragen", "EARoot/EA2/EA1/EA4/EA2/EA3/EA278.htm", "5.png", "E1613", "0", "", "Class0","{09FDD046-D87A-4d40-B70E-15B3EDCCA13B}");
+tocTab[tocTab.length] = new Array("0.2.1.4.2.3:6", "", "Abonneren", "EARoot/EA2/EA1/EA4/EA2/EA3/EA279.htm", "5.png", "E1616", "0", "", "Class0","{733286E6-E9B4-4143-96B8-D6BCD499D560}");
+tocTab[tocTab.length] = new Array("0.2.1.4.2.3:7", "", "Geindexeerd beschikbaar stellen", "EARoot/EA2/EA1/EA4/EA2/EA3/EA280.htm", "5.png", "E1614", "0", "", "Class0","{6FF58900-5DFB-44b0-83C8-5127E84D44E5}");
+tocTab[tocTab.length] = new Array("0.2.1.4.2.3:8", "", "Geindexeerd bevragen", "EARoot/EA2/EA1/EA4/EA2/EA3/EA281.htm", "5.png", "E1615", "0", "", "Class0","{73C5D5DA-21CF-4fd9-BFAC-EC72733736B2}");

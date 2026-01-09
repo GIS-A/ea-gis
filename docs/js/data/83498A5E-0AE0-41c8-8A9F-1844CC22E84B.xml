@@ -1,3 +1,4 @@
-tocTab[tocTab.length] = new Array("0.1.1", "1", "Basisinteracties", "EARoot/EA1/EA1/EA7.htm", "4.png", "", "", "{F405BD25-9901-42e1-8137-8615DC95AA35}", "Package");
-tocTab[tocTab.length] = new Array("0.1.2", "1", "Archimate", "EARoot/EA1/EA2/EA24.htm", "4.png", "", "", "{D251BDF7-A5F0-4330-9B16-A98B833B8874}", "Package");
-tocTab[tocTab.length] = new Array("0.1.3", "1", "Metamodel elementen", "EARoot/EA1/EA3/EA25.htm", "4.png", "", "", "{8FA5903C-5019-4c67-8533-DDF9AEE4F9BB}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.1", "1", "Basisinteracties", "EARoot/EA2/EA1/EA1/EA196.htm", "4.png", "", "", "{F405BD25-9901-42e1-8137-8615DC95AA35}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.2", "1", "Communicatiepatronen", "EARoot/EA2/EA1/EA2/EA199.htm", "4.png", "", "", "{824E8B5D-6C04-4275-AF6C-0D400BE9901D}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.3", "1", "Archimate", "EARoot/EA2/EA1/EA3/EA212.htm", "4.png", "", "", "{D251BDF7-A5F0-4330-9B16-A98B833B8874}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.4", "1", "Metamodel elementen", "EARoot/EA2/EA1/EA4/EA213.htm", "4.png", "", "", "{8FA5903C-5019-4c67-8533-DDF9AEE4F9BB}", "Package");

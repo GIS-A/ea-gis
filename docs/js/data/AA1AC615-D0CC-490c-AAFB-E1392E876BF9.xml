@@ -1,2 +1,2 @@
-tocTab[tocTab.length] = new Array("0.5.2.1.1:2", "", "LRZa", "EARoot/EA5/EA2/EA1/EA1/EA152.htm", "9F0DDA8A-5_ArchiMate_ApplicationComponent.png", "E1008", "0", "", "Component0","{9C95F602-E7F6-4e23-9A1A-3234AC39C4C7}");
-tocTab[tocTab.length] = new Array("0.5.2.1.1:1", "", "LRZa", "EARoot/EA5/EA2/EA1/EA1/EA149.htm", "175.png", "269", "E1008", "", "Logical diagram0","{CC948CD7-525B-423e-A980-E666AF6C0451}");
+tocTab[tocTab.length] = new Array("0.2.5.4.2.1:2", "", "LRZa", "EARoot/EA2/EA5/EA4/EA2/EA1/EA425.htm", "9F0DDA8A-5_ArchiMate_ApplicationComponent.png", "E1008", "0", "", "Component0","{9C95F602-E7F6-4e23-9A1A-3234AC39C4C7}");
+tocTab[tocTab.length] = new Array("0.2.5.4.2.1:1", "", "LRZa", "EARoot/EA2/EA5/EA4/EA2/EA1/EA422.htm", "175.png", "269", "E1008", "", "Logical diagram0","{CC948CD7-525B-423e-A980-E666AF6C0451}");

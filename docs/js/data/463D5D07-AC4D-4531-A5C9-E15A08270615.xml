@@ -1,3 +1,3 @@
-tocTab[tocTab.length] = new Array("0.5.3.4.2:1", "", "Gerichte beschikbaarstelling", "EARoot/EA5/EA3/EA4/EA2/EA270.htm", "9F0DDA8A-5_ArchiMate_BusinessProcess.png", "E959", "0", "", "Activity0","{ADE9A0BF-C966-4a37-BA7B-E209EA7AD995}");
-tocTab[tocTab.length] = new Array("0.5.3.4.2:2", "", "overdragen", "EARoot/EA5/EA3/EA4/EA2/EA271.htm", "9F0DDA8A-5_ArchiMate_BusinessProcess.png", "E953", "0", "", "Activity0","{839527CE-1A84-4dcf-8346-A8E87D5A86BE}");
-tocTab[tocTab.length] = new Array("0.5.3.4.2:3", "", "Verwijzen", "EARoot/EA5/EA3/EA4/EA2/EA272.htm", "9F0DDA8A-5_ArchiMate_BusinessProcess.png", "E958", "0", "", "Activity0","{2C265C43-35DC-45c1-8302-BE5CDDF58863}");
+tocTab[tocTab.length] = new Array("0.2.5.3.3.2:1", "", "Gerichte beschikbaarstelling", "EARoot/EA2/EA5/EA3/EA3/EA2/EA391.htm", "9F0DDA8A-5_ArchiMate_BusinessProcess.png", "E959", "0", "", "Activity0","{ADE9A0BF-C966-4a37-BA7B-E209EA7AD995}");
+tocTab[tocTab.length] = new Array("0.2.5.3.3.2:2", "", "overdragen", "EARoot/EA2/EA5/EA3/EA3/EA2/EA392.htm", "9F0DDA8A-5_ArchiMate_BusinessProcess.png", "E953", "0", "", "Activity0","{839527CE-1A84-4dcf-8346-A8E87D5A86BE}");
+tocTab[tocTab.length] = new Array("0.2.5.3.3.2:3", "", "Verwijzen", "EARoot/EA2/EA5/EA3/EA3/EA2/EA393.htm", "9F0DDA8A-5_ArchiMate_BusinessProcess.png", "E958", "0", "", "Activity0","{2C265C43-35DC-45c1-8302-BE5CDDF58863}");
