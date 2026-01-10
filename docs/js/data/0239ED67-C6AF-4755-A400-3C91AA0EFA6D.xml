@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.1.2.1.1.2.2:1", "", "Identify, authenticate, authorize HP", "EARoot/EA1/EA2/EA1/EA1/EA2/EA2/EA65.htm", "7.png", "E1820", "0", "", "UseCase0","{3023C7C5-6771-4747-BB34-B35D584940D2}");
+tocTab[tocTab.length] = new Array("0.1.2.1.1.2.2:2", "", "Identify & authenticate patient", "EARoot/EA1/EA2/EA1/EA1/EA2/EA2/EA66.htm", "7.png", "E1821", "0", "", "UseCase0","{7EE3C40E-F26A-4360-9E71-4401A73CFF95}");
+tocTab[tocTab.length] = new Array("0.1.2.1.1.2.2:3", "", "Tranfer PS to HP", "EARoot/EA1/EA2/EA1/EA1/EA2/EA2/EA67.htm", "7.png", "E1822", "0", "", "UseCase0","{CA46C004-05C5-40bc-9EC1-7946F32CF042}");
+tocTab[tocTab.length] = new Array("0.1.2.1.1.2.2:4", "", "Retrieve PS", "EARoot/EA1/EA2/EA1/EA1/EA2/EA2/EA68.htm", "7.png", "E1823", "0", "", "UseCase0","{4A26DC0A-066D-422f-9354-D2EE00170090}");

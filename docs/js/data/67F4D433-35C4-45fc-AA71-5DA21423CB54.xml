@@ -1,3 +1,3 @@
-tocTab[tocTab.length] = new Array("0.1.3:1", "", "Use cases natuurlijk persoon", "EARoot/EA1/EA3/EA176.htm", "175.png", "303", "0", "", "Logical diagram0","{A9483727-BA15-4bee-A897-9E2CC3C55E7C}");
-tocTab[tocTab.length] = new Array("0.1.3:2", "", "Use cases gezondheidswerker", "EARoot/EA1/EA3/EA178.htm", "175.png", "304", "0", "", "Logical diagram0","{7D0AC2E2-1E26-4edc-80B2-F236A6B24A53}");
-tocTab[tocTab.length] = new Array("0.1.3:3", "", "Use cases zorgaanbieders", "EARoot/EA1/EA3/EA180.htm", "175.png", "305", "0", "", "Logical diagram0","{A4A3BA02-C71B-4d37-8C03-F8CAEDA4A79C}");
+tocTab[tocTab.length] = new Array("0.1.1.2:1", "", "Use cases natuurlijk persoon", "EARoot/EA1/EA1/EA2/EA11.htm", "175.png", "303", "0", "", "Logical diagram0","{A9483727-BA15-4bee-A897-9E2CC3C55E7C}");
+tocTab[tocTab.length] = new Array("0.1.1.2:2", "", "Use cases gezondheidswerker", "EARoot/EA1/EA1/EA2/EA13.htm", "175.png", "304", "0", "", "Logical diagram0","{7D0AC2E2-1E26-4edc-80B2-F236A6B24A53}");
+tocTab[tocTab.length] = new Array("0.1.1.2:3", "", "Use cases zorgaanbieders", "EARoot/EA1/EA1/EA2/EA15.htm", "175.png", "305", "0", "", "Logical diagram0","{A4A3BA02-C71B-4d37-8C03-F8CAEDA4A79C}");
