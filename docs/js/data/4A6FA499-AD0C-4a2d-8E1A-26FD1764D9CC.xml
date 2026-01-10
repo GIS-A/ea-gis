@@ -1,3 +1,3 @@
-tocTab[tocTab.length] = new Array("0.2.5.1.1.1", "", "01. Houden", "EARoot/EA2/EA5/EA1/EA1/EA1/EA421.htm", "4.png", "", "", "{7B59ADF7-48EC-4ed3-908A-6F8DCE4BEDD3}", "Package");
-tocTab[tocTab.length] = new Array("0.2.5.1.1.2", "1", "02. Uitzoeken", "EARoot/EA2/EA5/EA1/EA1/EA2/EA422.htm", "4.png", "", "", "{6546BE8B-F283-4322-821B-F66FF7803AAE}", "Package");
-tocTab[tocTab.length] = new Array("0.2.5.1.1.3", "", "03. Afvoeren", "EARoot/EA2/EA5/EA1/EA1/EA3/EA425.htm", "4.png", "", "", "{73FF141E-8E7B-44a9-8B82-9F4495A3690D}", "Package");
+tocTab[tocTab.length] = new Array("0.2.5.1.1.1", "", "01. Houden", "EARoot/EA2/EA5/EA1/EA1/EA1/EA417.htm", "4.png", "", "", "{7B59ADF7-48EC-4ed3-908A-6F8DCE4BEDD3}", "Package");
+tocTab[tocTab.length] = new Array("0.2.5.1.1.2", "1", "02. Uitzoeken", "EARoot/EA2/EA5/EA1/EA1/EA2/EA418.htm", "4.png", "", "", "{6546BE8B-F283-4322-821B-F66FF7803AAE}", "Package");
+tocTab[tocTab.length] = new Array("0.2.5.1.1.3", "", "03. Afvoeren", "EARoot/EA2/EA5/EA1/EA1/EA3/EA421.htm", "4.png", "", "", "{73FF141E-8E7B-44a9-8B82-9F4495A3690D}", "Package");

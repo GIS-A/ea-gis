@@ -1,6 +1,5 @@
-tocTab[tocTab.length] = new Array("0.1.3.1", "1", "Motivation", "EARoot/EA1/EA3/EA1/EA86.htm", "4.png", "", "", "{A9693434-8258-4add-83E8-EBA6E4763D3F}", "Package");
-tocTab[tocTab.length] = new Array("0.1.3.2", "1", "Strategy", "EARoot/EA1/EA3/EA2/EA103.htm", "4.png", "", "", "{F4A891B0-2745-4b44-9208-0E65F76AC82E}", "Package");
-tocTab[tocTab.length] = new Array("0.1.3.3", "1", "Business", "EARoot/EA1/EA3/EA3/EA107.htm", "4.png", "", "", "{2DA1915B-A0F1-45eb-8CBF-346921B48ABE}", "Package");
-tocTab[tocTab.length] = new Array("0.1.3.4", "1", "Application", "EARoot/EA1/EA3/EA4/EA182.htm", "4.png", "", "", "{D2AC2E8F-ECB1-4e20-8BB0-85B8B38590A7}", "Package");
-tocTab[tocTab.length] = new Array("0.1.3.5", "1", "Technology", "EARoot/EA1/EA3/EA5/EA237.htm", "4.png", "", "", "{D340B501-840E-4934-A6FF-AFFA591AA495}", "Package");
-tocTab[tocTab.length] = new Array("0.1.3.6", "1", "UML", "EARoot/EA1/EA3/EA6/EA247.htm", "4.png", "", "", "{8FB51B52-DAFC-4baf-80B0-5499F8927634}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.3.1", "1", "Motivation", "EARoot/EA1/EA1/EA3/EA1/EA25.htm", "4.png", "", "", "{A9693434-8258-4add-83E8-EBA6E4763D3F}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.3.2", "1", "Strategy", "EARoot/EA1/EA1/EA3/EA2/EA42.htm", "4.png", "", "", "{F4A891B0-2745-4b44-9208-0E65F76AC82E}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.3.3", "1", "Business", "EARoot/EA1/EA1/EA3/EA3/EA46.htm", "4.png", "", "", "{2DA1915B-A0F1-45eb-8CBF-346921B48ABE}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.3.4", "1", "Application", "EARoot/EA1/EA1/EA3/EA4/EA121.htm", "4.png", "", "", "{D2AC2E8F-ECB1-4e20-8BB0-85B8B38590A7}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.3.5", "1", "Technology", "EARoot/EA1/EA1/EA3/EA5/EA176.htm", "4.png", "", "", "{D340B501-840E-4934-A6FF-AFFA591AA495}", "Package");

@@ -1,4 +1,4 @@
-tocTab[tocTab.length] = new Array("0.2.1.4.2.1", "1", "Archimate Behavior and Structure Elements Metamodel", "EARoot/EA2/EA1/EA4/EA2/EA1/EA323.htm", "4.png", "", "", "{AF81D9CE-9E04-4627-A3A9-5F242443DF8E}", "Package");
-tocTab[tocTab.length] = new Array("0.2.1.4.2.2", "1", "Basisinteracties", "EARoot/EA2/EA1/EA4/EA2/EA2/EA330.htm", "4.png", "", "", "{2D5E7229-B782-4624-BE17-E01CD32E97E5}", "Package");
-tocTab[tocTab.length] = new Array("0.2.1.4.2.3", "1", "Communicatiepatronen", "EARoot/EA2/EA1/EA4/EA2/EA3/EA339.htm", "4.png", "", "", "{3EE6145F-2DC2-4078-84BF-498DCB53435A}", "Package");
-tocTab[tocTab.length] = new Array("0.2.1.4.2.4", "1", "Business Use Cases", "EARoot/EA2/EA1/EA4/EA2/EA4/EA349.htm", "4.png", "", "", "{F0D87302-9C28-47f8-AE00-C9EBB6CFBCA4}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.4.2.1", "1", "Archimate Behavior and Structure Elements Metamodel", "EARoot/EA2/EA1/EA4/EA2/EA1/EA319.htm", "4.png", "", "", "{AF81D9CE-9E04-4627-A3A9-5F242443DF8E}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.4.2.2", "1", "Basisinteracties", "EARoot/EA2/EA1/EA4/EA2/EA2/EA326.htm", "4.png", "", "", "{2D5E7229-B782-4624-BE17-E01CD32E97E5}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.4.2.3", "1", "Communicatiepatronen", "EARoot/EA2/EA1/EA4/EA2/EA3/EA335.htm", "4.png", "", "", "{3EE6145F-2DC2-4078-84BF-498DCB53435A}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.4.2.4", "1", "Business Use Cases", "EARoot/EA2/EA1/EA4/EA2/EA4/EA345.htm", "4.png", "", "", "{F0D87302-9C28-47f8-AE00-C9EBB6CFBCA4}", "Package");
