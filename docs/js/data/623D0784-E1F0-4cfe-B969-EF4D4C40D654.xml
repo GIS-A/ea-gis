@@ -1,2 +1,2 @@
-tocTab[tocTab.length] = new Array("0.2.5.3.4:1", "", "informatiestandaard ", "EARoot/EA2/EA5/EA3/EA4/EA491.htm", "9F0DDA8A-5_ArchiMate_BusinessObject.png", "E963", "0", "", "Class0","{F10AEC0C-B61C-44e9-806D-A8BF9B387440}");
-tocTab[tocTab.length] = new Array("0.2.5.3.4:2", "", "Versie informatiestandaard ", "EARoot/EA2/EA5/EA3/EA4/EA492.htm", "9F0DDA8A-5_ArchiMate_BusinessObject.png", "E964", "0", "", "Class0","{E662BF71-9CC8-4b83-A16A-B0671F691BEC}");
+tocTab[tocTab.length] = new Array("0.2.4.3.4:1", "", "informatiestandaard ", "EARoot/EA2/EA4/EA3/EA4/EA363.htm", "9F0DDA8A-5_ArchiMate_BusinessObject.png", "E963", "0", "", "Class0","{F10AEC0C-B61C-44e9-806D-A8BF9B387440}");
+tocTab[tocTab.length] = new Array("0.2.4.3.4:2", "", "Versie informatiestandaard ", "EARoot/EA2/EA4/EA3/EA4/EA364.htm", "9F0DDA8A-5_ArchiMate_BusinessObject.png", "E964", "0", "", "Class0","{E662BF71-9CC8-4b83-A16A-B0671F691BEC}");
