@@ -1,3 +1,0 @@
-tocTab[tocTab.length] = new Array("0.2.2.1.1:1", "", "AF - Adressering", "EARoot/EA2/EA2/EA1/EA1/EA425.htm", "175.png", "325", "0", "", "Logical diagram0","{605B4A52-E087-4759-B9A3-7EF4E4AE67C4}");
-tocTab[tocTab.length] = new Array("0.2.2.1.1:2", "", "Adresseringsfuncties - flow", "EARoot/EA2/EA2/EA1/EA1/EA427.htm", "175.png", "278", "0", "", "Logical diagram0","{F7E48117-0043-4794-96CB-75B05CFB28FF}");
-tocTab[tocTab.length] = new Array("0.2.2.1.1:3", "", "Adressering - inventarisatie elementen", "EARoot/EA2/EA2/EA1/EA1/EA429.htm", "175.png", "259", "0", "", "Logical diagram0","{6825CC2F-85A5-4795-9136-67E58A70C7B1}");

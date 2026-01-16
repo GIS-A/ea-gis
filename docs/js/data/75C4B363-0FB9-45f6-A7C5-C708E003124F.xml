@@ -1,4 +1,0 @@
-tocTab[tocTab.length] = new Array("0.6.1.7:1", "", "Elektronisch identificatiemiddel", "EARoot/EA6/EA1/EA7/EA391.htm", "9F0DDA8A-5_ArchiMate_Artifact.png", "E1290", "0", "", "Class0","{BE190A24-B715-43b3-B455-5C49DA9825CD}");
-tocTab[tocTab.length] = new Array("0.6.1.7:2", "", "Elektronisch identificatiemiddel", "EARoot/EA6/EA1/EA7/EA392.htm", "9F0DDA8A-5_ArchiMate_BusinessObject.png", "E1307", "0", "", "Class0","{EBD0CE4A-264C-4682-BF94-DF23EE986EEF}");
-tocTab[tocTab.length] = new Array("0.6.1.7:3", "", "Elektronische identificatie", "EARoot/EA6/EA1/EA7/EA393.htm", "9F0DDA8A-5_ArchiMate_BusinessProcess.png", "E1296", "0", "", "Activity0","{D6051DD3-A685-4e5d-BD3D-7495D613CF20}");
-tocTab[tocTab.length] = new Array("0.6.1.7:4", "", "Elektronische identificatie", "EARoot/EA6/EA1/EA7/EA394.htm", "9F0DDA8A-5_ArchiMate_ApplicationProcess.png", "E1309", "0", "", "Activity0","{EE4926D1-B5FE-406b-A6A1-75623B88A425}");
