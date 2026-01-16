@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.2.5.4.1.2.1", "1", "Business interfaces", "EARoot/EA2/EA5/EA4/EA1/EA2/EA1/EA646.htm", "4.png", "", "", "{A78B779D-AE6B-4178-9C8E-3C28B3FBC5F3}", "Package");
+tocTab[tocTab.length] = new Array("0.2.5.4.1.2.2", "1", "Business objects", "EARoot/EA2/EA5/EA4/EA1/EA2/EA2/EA648.htm", "4.png", "", "", "{6E3B07C1-2D61-4573-8183-FA0647F8545B}", "Package");
+tocTab[tocTab.length] = new Array("0.2.5.4.1.2.3", "1", "Business processes", "EARoot/EA2/EA5/EA4/EA1/EA2/EA3/EA650.htm", "4.png", "", "", "{B50629F6-5A67-4ed8-BF60-39B36C7E1900}", "Package");
+tocTab[tocTab.length] = new Array("0.2.5.4.1.2.4", "1", "Business roles", "EARoot/EA2/EA5/EA4/EA1/EA2/EA4/EA652.htm", "4.png", "", "", "{5508D5E2-5C03-46b9-8E14-5A93FDDFD7C0}", "Package");
+tocTab[tocTab.length] = new Array("0.2.5.4.1.2.5", "1", "Business services", "EARoot/EA2/EA5/EA4/EA1/EA2/EA5/EA655.htm", "4.png", "", "", "{86DE4255-2584-4162-926A-B447C3C59B41}", "Package");

@@ -1,0 +1,216 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Overzicht primair</title>
+<link href="../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<!-- START: TOOLTIP CODE -->
+<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.3.1.min.js"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.10.4/jquery-ui.min.js"></script>
+<!-- EIND: TOOLTIP CODE -->
+<script language="JavaScript" src="../../../../js/displayToc.js" type="text/javascript"></script>
+<script>
+
+  function switchProjectProperties() {
+			if (document.getElementById("proj00").style.display == "none") {
+				document.getElementById("proj00").style.display = "revert";
+				document.getElementById("proj01").style.display = "revert";
+				document.getElementById("proj02").style.display = "revert";
+				document.getElementById("proj03").style.display = "revert";
+				document.getElementById("proj04").style.display = "revert";
+				document.getElementById("proj05").style.display = "revert";
+			} else {
+				document.getElementById("proj00").style.display = "none";
+				document.getElementById("proj01").style.display = "none";
+				document.getElementById("proj02").style.display = "none";
+				document.getElementById("proj03").style.display = "none";
+				document.getElementById("proj04").style.display = "none";
+				document.getElementById("proj05").style.display = "none";
+			}
+}
+
+		function switchAdvancedProperties(){
+
+			if (document.getElementById("adv00").style.display == "none") {;
+				document.getElementById("adv00").style.display = "revert";
+				document.getElementById("adv01").style.display = "revert";
+			} else {
+				document.getElementById("adv00").style.display = "none";
+				document.getElementById("adv01").style.display = "none";
+			}
+		}
+		function initPage()
+		{			
+			// START: TOOLTIP CODE
+			$("area").mouseover(function() { mapRectangleMouseOver(this); } );
+			$("area").mouseout(function() { mapRectangleMouseOut(this); } );
+			// EIND: TOOLTIP CODE
+			
+			var divs = document.getElementsByClassName("ObjectDetailsNotes");
+			for (var j = 0; j < divs.length; j++) {
+				var tmpStr = divs[j].innerHTML;
+				tmpStr = tmpStr.replace(/&gt;/g, ">");
+				tmpStr = tmpStr.replace(/&lt;/g, "<");
+
+				tmpStr = tmpStr.replace(/#gt;/g, "&gt;");
+				tmpStr = tmpStr.replace(/#lt;/g, "&lt;");
+
+				divs[j].innerHTML = tmpStr;
+			}
+
+            if (document.getElementById('TableGroup') != null)
+            {
+                toggleItem(document.getElementById('TableGroup').getElementsByTagName('li')[0].id.replace("Title", ""));
+            }
+
+        }
+</script>
+<style>
+
+</style>
+</head>
+<body onload="initPage();">
+<div class="section group" >
+
+		<div class="col span_2_of_2 header_frame">
+			<h1>GIS Enterprise Architectuur werkomgeving</h1>
+			<!-- <img class="header_image" src="../../../../images/ea-banner.png" align="right" alt="Header Image" />-->
+			<img class="header_image" src="../../../../images/ea-banner.png" align="right" alt="Header Image" />
+		</div>
+		<div class="col span_2_of_2 breadcrumb_frame">
+			<p><a href="../../../../index.htm">EA-GIS</a> / <a href="../../EA1.htm">EA-EHDS</a> / <a href="../EA5.htm">1 | Architectuur</a> / <a href="EA14.htm">1 | Overzicht</a> / <a href="EA12.htm">Overzicht primair</a></p>
+		</div>
+			
+		<table class="contentmaintable">
+			<!-- <tfoot>
+				<tr>
+					<td>foot1</td>
+					<td>foot2</td>
+				</tr>
+			</tfoot> -->
+			<tbody>
+				<tr>
+					<td class="indexcell">
+						<!-- <div class="projectBrowserTitle">Project: </div> -->
+						<div class="projectBrowserTitle"></div>
+						<ul>
+<li><img src="../../../../images/175.png" alt="Diagram"/> <a href="EA12.htm">Overzicht primair</a></li>
+</ul>
+
+					</td>
+					<td class="contentcell"><div class="PageBody">
+	<!-- CUSTOM -->
+	<div class=previewPanel></div>
+	<div class="ObjectTitle">Overzicht primair</div>
+	<div class="ObjectDetailsNotes">Deze plaat toont een overzicht en de samenhang van de belangrijkste componenten die een rol spelen binnen primair gebruik.&lt;br/&gt;&lt;br/&gt;&lt;font color=&quot;#4b0082&quot;&gt;&lt;b&gt;OPMERKING &lt;/b&gt;&lt;/font&gt;- Er wordt nu nog Engels en Nederlands door elkaar gebruikt. Dit komt omdat ik de EHDS en aan EHDS gerelateerde bouwblokken uit Nederlandstalige verordeningen en richtlijnen gehaald heb.&lt;br/&gt;</div>
+
+	<hr>
+	<!-- END CUSTOM -->
+	<div class=diagram_image> 
+<img src="EA13.png" usemap="#EA13" border="0" />
+
+<MAP NAME="EA13">
+<area shape="rect" coords="719,893,829,937" href="../../EA3/EA270.htm" target="_self">
+<area shape="rect" coords="716,718,826,762" href="../../EA3/EA269.htm" target="_self">
+<area shape="rect" coords="233,26,343,70" href="../../EA3/EA274.htm" target="_self">
+<area shape="rect" coords="956,254,1066,298" href="../../EA3/EA273.htm" target="_self">
+<area shape="rect" coords="976,478,1086,522" href="../../EA3/EA272.htm" target="_self">
+<area shape="rect" coords="373,253,463,298" href="../EA6/EA4/EA5/EA177.htm" target="_self">
+<area shape="rect" coords="373,495,463,540" href="../EA6/EA4/EA5/EA184.htm" target="_self">
+<area shape="rect" coords="1135,102,1225,172" href="../EA6/EA4/EA1/EA147.htm" target="_self">
+<area shape="rect" coords="1024,102,1114,172" href="../EA6/EA4/EA1/EA153.htm" target="_self">
+<area shape="rect" coords="782,239,872,309" href="../EA6/EA4/EA1/EA154.htm" target="_self">
+<area shape="rect" coords="668,239,758,309" href="../EA6/EA4/EA1/EA148.htm" target="_self">
+<area shape="rect" coords="783,476,873,550" href="../EA6/EA4/EA1/EA155.htm" target="_self">
+<area shape="rect" coords="673,476,763,550" href="../EA6/EA4/EA1/EA149.htm" target="_self">
+<area shape="rect" coords="427,691,517,761" href="../EA6/EA4/EA1/EA152.htm" target="_self">
+<area shape="rect" coords="316,691,406,761" href="../EA6/EA4/EA1/EA150.htm" target="_self">
+<area shape="rect" coords="427,134,517,204" href="../EA6/EA4/EA1/EA156.htm" target="_self">
+<area shape="rect" coords="317,134,407,204" href="../EA6/EA4/EA1/EA151.htm" target="_self">
+<area shape="rect" coords="646,196,886,327" href="../EA6/EA4/EA1/EA159.htm" target="_self">
+<area shape="rect" coords="650,434,890,565" href="../EA6/EA4/EA1/EA160.htm" target="_self">
+<area shape="rect" coords="1331,650,1421,720" href="../EA6/EA5/EA2/EA203.htm" target="_self">
+<area shape="rect" coords="1162,652,1252,722" href="../EA6/EA4/EA1/EA143.htm" target="_self">
+<area shape="rect" coords="991,712,1081,757" href="../EA6/EA4/EA5/EA179.htm" target="_self">
+<area shape="rect" coords="991,624,1081,669" href="../EA6/EA4/EA5/EA178.htm" target="_self">
+<area shape="rect" coords="1478,90,1568,160" href="../EA6/EA3/EA6/EA122.htm" target="_self">
+<area shape="rect" coords="1327,103,1417,148" href="../EA6/EA4/EA5/EA182.htm" target="_self">
+<area shape="rect" coords="1003,60,1243,191" href="../EA6/EA4/EA1/EA158.htm" target="_self">
+<area shape="rect" coords="298,90,538,221" href="../EA6/EA4/EA1/EA146.htm" target="_self">
+<area shape="rect" coords="35,481,125,551" href="../EA6/EA3/EA6/EA121.htm" target="_self">
+<area shape="rect" coords="297,645,537,776" href="../EA6/EA4/EA1/EA157.htm" target="_self">
+<area shape="rect" coords="36,240,126,310" href="../EA6/EA3/EA1/EA77.htm" target="_self">
+</MAP>
+ </div>
+	<!-- <div class="ObjectTitle">Overzicht primair : Application Layer diagram</div> -->
+		<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<!-- REMOVE
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">16-12-2025 17:14:45</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">13-1-2026 08:37:05</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchProjectProperties()"><img src="../../../../images/plus03.gif" align="absmiddle" id="proj" /></button>Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Marcel Schrauwen</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchAdvancedProperties()"><img src="../../../../images/plus03.gif" align="absmiddle" id="adv" /></button>Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{30DB0F2F-2321-441b-8A55-710A7C7F69B1}</td>
+		</tr>
+		-->
+		<!-- CUSTOM -->
+		<hr>
+		<td width="15%" class="ObjectDetailsTopic">Gemaakt:</td>
+			<td width="85%" class="ObjectDetailsValue">16-12-2025 17:14:45</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Aangepast:</td>
+			<td width="85%" class="ObjectDetailsValue">13-1-2026 08:37:05</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Versie:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Beheerder:</td>
+			<td width="85%" class="ObjectDetailsValue">Marcel Schrauwen</td>
+		</tr>
+	</table>
+	<!-- CUSTOM -->
+	<!-- <hr>
+	<table border="0" class="ObjectDetails">
+		<tr>
+			<td class="ObjectDetailsTopic">Reactie:</td>
+			<td class="ObjectDetailsValue"><a href="https://github.com/MarcelSchrauwen/ea-gis/issues/new?title=Reactie:+Overzicht primair&body=Het+helpt+als+je+hier+een+link+naar+het+onderwerp+toevoegt.">New Github Issue</a></td>
+		</tr>
+	<table> -->
+	<hr>
+	<!-- END CUSTOM -->
+	<!-- <div class="ObjectDetailsNotes">Deze plaat toont een overzicht en de samenhang van de belangrijkste componenten die een rol spelen binnen primair gebruik.&lt;br/&gt;&lt;br/&gt;&lt;font color=&quot;#4b0082&quot;&gt;&lt;b&gt;OPMERKING &lt;/b&gt;&lt;/font&gt;- Er wordt nu nog Engels en Nederlands door elkaar gebruikt. Dit komt omdat ik de EHDS en aan EHDS gerelateerde bouwblokken uit Nederlandstalige verordeningen en richtlijnen gehaald heb.&lt;br/&gt;</div>
+ -->
+</div>
+
+ </td>
+				</tr>
+			</tbody>
+		</table>
+		
+</div>
+</body>
+</html>

@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.2.3.1.1.1:1", "", "Adresseringsfuncties - flow", "EARoot/EA2/EA3/EA1/EA1/EA1/EA321.htm", "175.png", "278", "0", "", "Logical diagram0","{F7E48117-0043-4794-96CB-75B05CFB28FF}");
+tocTab[tocTab.length] = new Array("0.2.3.1.1.1:2", "", "Adressering - inventarisatie elementen", "EARoot/EA2/EA3/EA1/EA1/EA1/EA323.htm", "175.png", "259", "0", "", "Logical diagram0","{6825CC2F-85A5-4795-9136-67E58A70C7B1}");
+tocTab[tocTab.length] = new Array("0.2.3.1.1.1:3", "", "Adressering - schets adresboekdienst", "EARoot/EA2/EA3/EA1/EA1/EA1/EA325.htm", "175.png", "328", "0", "", "Logical diagram0","{ED700412-53C6-40d5-8BEC-D34DFA689C4C}");

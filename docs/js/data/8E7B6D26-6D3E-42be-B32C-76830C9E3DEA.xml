@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.1.1.6.3.7:1", "", "Data-altruïsme", "EARoot/EA1/EA1/EA6/EA3/EA7/EA124.htm", "9F0DDA8A-5_ArchiMate_BusinessService.png", "E1246", "0", "", "Activity0","{2DC49370-7BCB-4931-9602-708BFBB42BE9}");
+tocTab[tocTab.length] = new Array("0.1.1.6.3.7:2", "", "Gezondheidszorg", "EARoot/EA1/EA1/EA6/EA3/EA7/EA125.htm", "9F0DDA8A-5_ArchiMate_BusinessService.png", "E1305", "0", "", "Activity0","{E8015E6F-E9FB-4438-820C-BEDF9BC5CE46}");
+tocTab[tocTab.length] = new Array("0.1.1.6.3.7:3", "", "Toegang", "EARoot/EA1/EA1/EA6/EA3/EA7/EA126.htm", "9F0DDA8A-5_ArchiMate_BusinessService.png", "E1256", "0", "", "Activity0","{47F2A8E1-0EE7-482d-9123-9E3D4F5BF93D}");
+tocTab[tocTab.length] = new Array("0.1.1.6.3.7:4", "", "Zorg", "EARoot/EA1/EA1/EA6/EA3/EA7/EA127.htm", "9F0DDA8A-5_ArchiMate_BusinessService.png", "E1304", "0", "", "Activity0","{E7F1F4DE-B30B-48be-837F-80237D4CE5C7}");
