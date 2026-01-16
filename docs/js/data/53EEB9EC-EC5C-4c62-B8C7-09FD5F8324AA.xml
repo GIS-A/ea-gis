@@ -1,6 +1,0 @@
-tocTab[tocTab.length] = new Array("0.2.1", "1", "1 | Architectuurprincipes", "EARoot/EA2/EA1/EA289.htm", "4.png", "", "", "{6B6CDE0F-0137-4ffd-AF6B-3157266A6811}", "Package");
-tocTab[tocTab.length] = new Array("0.2.2", "1", "2 | Use cases eindgebruiker", "EARoot/EA2/EA2/EA292.htm", "4.png", "", "", "{BDAB2ECA-EBEE-4cdf-80AD-8ADFA5737AE0}", "Package");
-tocTab[tocTab.length] = new Array("0.2.3", "1", "3 | Generieke functies", "EARoot/EA2/EA3/EA307.htm", "4.png", "", "", "{864C6CFE-7460-4aeb-AF98-0F06D475FDA4}", "Package");
-tocTab[tocTab.length] = new Array("0.2.4", "1", "A | Model", "EARoot/EA2/EA4/EA345.htm", "4.png", "", "", "{CF7E2F5B-6E42-464e-AB08-C62AE59AF5E3}", "Package");
-tocTab[tocTab.length] = new Array("0.2.5", "1", "B | Metamodellen", "EARoot/EA2/EA5/EA573.htm", "4.png", "", "", "{83498A5E-0AE0-41c8-8A9F-1844CC22E84B}", "Package");
-tocTab[tocTab.length] = new Array("0.2.6", "1", "C | Issues", "EARoot/EA2/EA6/EA704.htm", "4.png", "", "", "{AA212748-5AB3-46c4-9BC9-5CD6B7570063}", "Package");

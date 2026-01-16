@@ -1,6 +1,0 @@
-tocTab[tocTab.length] = new Array("0.1.1.6.4.1", "1", "Application components", "EARoot/EA1/EA1/EA6/EA4/EA1/EA140.htm", "4.png", "", "", "{582C7FE4-EAFF-41ad-9890-1B6E1F520C71}", "Package");
-tocTab[tocTab.length] = new Array("0.1.1.6.4.2", "1", "Application functions", "EARoot/EA1/EA1/EA6/EA4/EA2/EA161.htm", "4.png", "", "", "{FBF5DA00-6A54-450f-8292-D03D72680990}", "Package");
-tocTab[tocTab.length] = new Array("0.1.1.6.4.3", "", "Application interfaces", "EARoot/EA1/EA1/EA6/EA4/EA3/EA170.htm", "4.png", "", "", "{7962996A-0498-49df-803C-0AC7E459E12E}", "Package");
-tocTab[tocTab.length] = new Array("0.1.1.6.4.4", "1", "Application process", "EARoot/EA1/EA1/EA6/EA4/EA4/EA171.htm", "4.png", "", "", "{A785CCAC-57EB-4169-8CFE-13523AF060E6}", "Package");
-tocTab[tocTab.length] = new Array("0.1.1.6.4.5", "1", "Application services", "EARoot/EA1/EA1/EA6/EA4/EA5/EA176.htm", "4.png", "", "", "{02F9F752-3BBE-4ed5-B724-428304D53B18}", "Package");
-tocTab[tocTab.length] = new Array("0.1.1.6.4.6", "1", "Data objects", "EARoot/EA1/EA1/EA6/EA4/EA6/EA185.htm", "4.png", "", "", "{F9BF7210-7102-47f4-BA08-ED410C660FAF}", "Package");

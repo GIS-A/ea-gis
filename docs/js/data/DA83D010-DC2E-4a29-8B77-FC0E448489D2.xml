@@ -1,2 +1,0 @@
-tocTab[tocTab.length] = new Array("0.1.1.4:1", "", "Dienst voor toegang tot elektronische gezondheidsgegeven", "EARoot/EA1/EA1/EA4/EA23.htm", "175.png", "314", "0", "", "Logical diagram0","{A54D8731-BD70-4ef4-84AE-4C33FB5552AC}");
-tocTab[tocTab.length] = new Array("0.1.1.4:2", "", "Dienst voor toegang tot elektronische gezondheidsgegevens - Use case mappings", "EARoot/EA1/EA1/EA4/EA25.htm", "175.png", "313", "0", "", "Logical diagram0","{A3D70A9E-7283-4583-8030-F6BE5A8DF0E4}");
