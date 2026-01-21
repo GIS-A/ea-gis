@@ -1,3 +1,4 @@
-tocTab[tocTab.length] = new Array("0.1.1", "1", "1 | Architectuur", "EARoot/EA1/EA1/EA5.htm", "4.png", "", "", "{6FDB75F5-B9B3-4ebb-9698-C3BAB1943091}", "Package");
-tocTab[tocTab.length] = new Array("0.1.2", "1", "2 | Ontwerp", "EARoot/EA1/EA2/EA206.htm", "4.png", "", "", "{9B4B6407-A2D4-4734-AF4B-9607518712C8}", "Package");
-tocTab[tocTab.length] = new Array("0.1.3", "1", "3 | Issues", "EARoot/EA1/EA3/EA266.htm", "4.png", "", "", "{93CBC547-C6D3-456e-92B5-3B64A525A965}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1", "1", "1 | Architectuur", "EARoot/EA1/EA1/EA6.htm", "4.png", "", "", "{6FDB75F5-B9B3-4ebb-9698-C3BAB1943091}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2", "1", "2 | Ontwerp", "EARoot/EA1/EA2/EA34.htm", "4.png", "", "", "{9B4B6407-A2D4-4734-AF4B-9607518712C8}", "Package");
+tocTab[tocTab.length] = new Array("0.1.3", "1", "A | Model", "EARoot/EA1/EA3/EA94.htm", "4.png", "", "", "{0F277D85-A818-4fc9-AB99-D3132FDEB58F}", "Package");
+tocTab[tocTab.length] = new Array("0.1.4", "1", "C | Issues", "EARoot/EA1/EA4/EA271.htm", "4.png", "", "", "{93CBC547-C6D3-456e-92B5-3B64A525A965}", "Package");
